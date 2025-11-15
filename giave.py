@@ -1,0 +1,5 @@
+ve=input('nhap ve ')
+if ve='hoc sinh':print('3k')
+elif ve='sinh vien':print('5k')
+elif ve='thuong'print('7k')
+else:print('free')
