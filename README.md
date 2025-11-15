@@ -1,2 +1,3 @@
 # SOT381-Python-TinA
-quan ly va luu 
+quan ly va luu tru
+
